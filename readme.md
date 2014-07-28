@@ -1,5 +1,4 @@
 ##WORDSEARCHER.JS - a crossword puzzle solver
-###Zearn Developer Challenge
 ###Tong Xiang
 
 ####RUNNING WORDSEARCHER.JS
